@@ -1,0 +1,5 @@
+{
+  "name": "Zama-Inspired AI Chat",
+  "description": "A sleek, modern chat application inspired by Zama's aesthetic, powered by the Gemini API. It provides a seamless, streaming conversational experience in a dark-themed interface with vibrant yellow accents.",
+  "requestFramePermissions": []
+}
